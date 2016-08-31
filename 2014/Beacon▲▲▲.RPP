@@ -1,0 +1,2189 @@
+<REAPER_PROJECT 0.1 "4.77/x64" 1462568530
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 0.5 8 1 0 0
+  TIMEMODE 1 5 -1 30 0
+  PANMODE 3
+  CURSOR 30.59602649006623
+  ZOOM 29.79017957400911 1966 0
+  VZOOMEX 3
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "D:\Recording" "D:\Recording"
+  <RECORD_CFG
+    ZXZhdxgA
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "D:\2014\Render\Loher.mp3"
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 2 4.3 234.04
+  RENDER_RESAMPLE 4 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    bDNwbUABAAABAAAA//////////8EAAAAQAEAAAAAAAA=
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+  >
+  GLOBAL_AUTO -1
+  TEMPO 151 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 24.63576158940397 93.37748344370861
+  SELECTION2 24.63576158940397 93.37748344370861
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 -1 -1 -1
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 0.48404242685333 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    ACT 0
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 0
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  MARKER 4 19.07284768212318 Start 0 16777471 1
+  MARKER 1 76.29139072849669 chorus 0 0 1
+  MARKER 2 133.50993377485432 chorus 0 0 1
+  MARKER 3 235.23178807949009 chrus 0 0 1
+  <PROJBAY
+  >
+  <TRACK {BB0BF1B2-A66D-4009-92B1-C7494B552440}
+    NAME EZdrummer
+    PEAKCOL 29331185
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1.81557683186099 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 5088 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {BB0BF1B2-A66D-4009-92B1-C7494B552440}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 901 204 1147 769
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VSTi: EZdrummer (Toontrack) (32 out)" EZdrummer.dll 0 ""
+        ZWhmZO5e7f4AAAAAIAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAAAAQAAAAAAAAACAAAAAAAA
+        AAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAABAAAAAAAAAAIAAAAAAAAABAAAAAAAAAAIAAAAAAAAABAAAAAAAAAAIAAAAAAA
+        AABAAAAAAAAAAIAAAAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAACYCwAAAQAAALsAEAB2ZXJz
+        aW9uIDEKRVpYICJFWlgyX0VaZHJ1bW1lcjJfTW9kZXJuIgpodW1hbml6ZSAxCnBvcyAiS2ljayIgIjE0MjRHTVMyIgpwb3MgIlNuYXJlIiAiMTRHTVMxIgpwb3MgIkhh
+        dHMiICIxM0hIWCIKcG9zICJUb20xIiAiIgpwb3MgIlRvbTIiICIxNEdNUzIiCnBvcyAiVG9tMyIgIiIKcG9zICJUb200IiAiMTZHTVMzIgpwb3MgIlRvbTUiICIxOEdN
+        UzMiCnBvcyAiUmlkZTQiICIyMFNhYmlhblJpZGUiCnBvcyAiQ3Jhc2gxIiAiMjBTYWJpYW4xIgpwb3MgIkNyYXNoMiIgIjIwU2FiaWFuMiIKcG9zICJDcmFzaDMiICIx
+        OC0yU2FiaWFuMyIKcG9zICJDcmFzaDQiICIxOC0yU2FiaWFuNSIKbWl4ZXIgewpidXNzIDAgewpwYW4gMC41CnZvbHVtZSAxLjQxMjU0CnBoYXNlcmV2ZXJzZSAwCnNv
+        bG8gMAptdXRlIDAKcm91dGUgMAp9CmJ1c3MgMSB7CnBhbiAwLjUKdm9sdW1lIDEuNDEyNTQKcGhhc2VyZXZlcnNlIDAKc29sbyAwCm11dGUgMApyb3V0ZSAwCn0KYnVz
+        cyAyIHsKcGFuIDAuNQp2b2x1bWUgMC44MTI4MzIKcGhhc2VyZXZlcnNlIDAKc29sbyAwCm11dGUgMApyb3V0ZSAwCn0KYnVzcyAzIHsKcGFuIDAuNQp2b2x1bWUgMC44
+        MTI4MzIKcGhhc2VyZXZlcnNlIDAKc29sbyAwCm11dGUgMApyb3V0ZSAwCn0KYnVzcyA0IHsKcGFuIDAKdm9sdW1lIDAuNTI0ODEKcGhhc2VyZXZlcnNlIDAKc29sbyAw
+        Cm11dGUgMApyb3V0ZSAwCn0KYnVzcyA1IHsKcGFuIDEKdm9sdW1lIDAuNTI0ODEKcGhhc2VyZXZlcnNlIDAKc29sbyAwCm11dGUgMApyb3V0ZSAwCn0KYnVzcyA2IHsK
+        cGFuIDAKdm9sdW1lIDAuMzU3OTcxCnBoYXNlcmV2ZXJzZSAwCnNvbG8gMAptdXRlIDAKcm91dGUgMAp9CmJ1c3MgNyB7CnBhbiAxCnZvbHVtZSAwLjM1Nzk3MQpwaGFz
+        ZXJldmVyc2UgMApzb2xvIDAKbXV0ZSAwCnJvdXRlIDAKfQpidXNzIDggewpwYW4gMAp2b2x1bWUgMC43OTQzMwpwaGFzZXJldmVyc2UgMApzb2xvIDAKbXV0ZSAxCnJv
+        dXRlIDAKfQpidXNzIDkgewpwYW4gMQp2b2x1bWUgMC43OTQzMwpwaGFzZXJldmVyc2UgMApzb2xvIDAKbXV0ZSAxCnJvdXRlIDAKfQpidXNzIDEwIHsKcGFuIDAKdm9s
+        dW1lIDAuMzcxNTM2CnBoYXNlcmV2ZXJzZSAwCnNvbG8gMAptdXRlIDAKcm91dGUgMAp9CmJ1c3MgMTEgewpwYW4gMQp2b2x1bWUgMC4zNzE1MzYKcGhhc2VyZXZlcnNl
+        IDAKc29sbyAwCm11dGUgMApyb3V0ZSAwCn0KYnVzcyAxMiB7CnBhbiAwLjUKdm9sdW1lIDAuNzI0NDM3CnBoYXNlcmV2ZXJzZSAwCnNvbG8gMAptdXRlIDAKcm91dGUg
+        MAp9CmJ1c3MgMTMgewpwYW4gMC41CnZvbHVtZSAwLjcyNDQzNwpwaGFzZXJldmVyc2UgMApzb2xvIDAKbXV0ZSAwCnJvdXRlIDAKfQpidXNzIDE0IHsKcGFuIDAKdm9s
+        dW1lIDAuOTMzMjU2CnBoYXNlcmV2ZXJzZSAwCnNvbG8gMAptdXRlIDAKcm91dGUgMAp9CmJ1c3MgMTUgewpwYW4gMAp2b2x1bWUgMC45MzMyNTYKcGhhc2VyZXZlcnNl
+        IDAKc29sbyAwCm11dGUgMApyb3V0ZSAwCn0KYnVzcyAxNiB7CnBhbiAxCnZvbHVtZSAwLjkzMzI1NgpwaGFzZXJldmVyc2UgMApzb2xvIDAKbXV0ZSAwCnJvdXRlIDAK
+        fQpidXNzIDE3IHsKcGFuIDEKdm9sdW1lIDAuOTMzMjU2CnBoYXNlcmV2ZXJzZSAwCnNvbG8gMAptdXRlIDAKcm91dGUgMAp9CmJ1c3MgMTggewpwYW4gMAp2b2x1bWUg
+        MC4yMjM4NzIKcGhhc2VyZXZlcnNlIDAKc29sbyAwCm11dGUgMApyb3V0ZSAwCn0KYnVzcyAxOSB7CnBhbiAxCnZvbHVtZSAwLjIyMzg3MgpwaGFzZXJldmVyc2UgMApz
+        b2xvIDAKbXV0ZSAwCnJvdXRlIDAKfQp9CkVaMXN0dWZmRU5EIHsKfQpzYW1wbGVyIHsKbWFzdGVydm9sIDEKcmV2ZXJzZSAwCnByZXNldCAiUHJvZyBSb2NrIgprbm9i
+        IDAgMC40OTUwNQprbm9iIDEgMC42MzEzMTkKa25vYiAyIDAuNTA0OTUxCmtub2IgMyAwLjM3OTI4OQprbm9iIDQgMC4xMTAxNjYKZHJ1bXByb3BzIHsKIlhQZXJjLTAi
+        IHggIkVaWFBfRVpkcnVtbWVyMl9QZXJjdXNzaW9uIiAiT25lc2hvdCIgIkNsYXBzMiIKIlhQZXJjLTEiIHggIkVaWFBfRVpkcnVtbWVyMl9QZXJjdXNzaW9uIiAiU2hh
+        a2VyIiAiU2hha2VyMSIKIlhQZXJjLTIiIHggIkVaWFBfRVpkcnVtbWVyMl9QZXJjdXNzaW9uIiAiVGFtYm91cmluZSIgIlRhbWIxIgp9Cn0KZWRydW0gbm9uZSBub25l
+        Cm1pZGlsZWFybiB7Cn0KRWRpdG9yIHsgClNvbmdUcmFjayB7ClZpc2libGVBcmVhIDEyOC44OTcgMTkzLjg5NwpUcmFja05hbWUgIiIKQ2xlYXJUcmFja0ZpcnN0ClRp
+        bWVTaWcgNCA0CkdyaWRSZXMgMzIKTG9vcEFyZWEgMCAwCkxvb3BBY3RpdmUgMAp9ClZpc2libGVSZXN1bHRDb2x1bW5zIDE2LDI4LDAsMDsxNywyOCwwLDA7MCwxODUs
+        MCwwOzExLDIwMCwwLDA7NCwxNTAsMCwwOzYsMTMwLDAsMDs3LDQ1LDAsMDs4LDQ1LDAsMDszLDQ1LDAsMDsKVmlzaWJsZUZpbHRlckNvbHVtbnMgNDs3OzU7MTs1OzI7
+        NjsyOwpCcm93c2VySGVpZ2h0IDE2NgpTZWxlY3RlZFRhZ3MgLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCww
+        LDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCww
+        LDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCww
+        LDAsMCwwClNlbGVjdGVkRmlsZSAKU2VsZWN0ZWRCcm93c2VyUGF0aCAiMDhARVpYX05BU0hWSUxMRS8wMDFAU1RSQUlHSFQvUzEwMi01QEZJTExTL1ZhcmlhdGlvbl8x
+        NC5taWQiCkJyb3dzZXJJbnRlbnNpdHkgMDszMzswOzU5OwpDbGVhclRhcDJGaW5kCkJyb3dzZXJJc0Zhdm9yaXRlIDAKUHJldmlld0luT3JpZ2luYWxUZW1wbyAwCkNs
+        ZWFyU29uZ0NyZWF0b3IgMApWaXNpYmxlVGFiIDAKfQpTeW5jVG9Ib3N0IDEgMTUxCk1pZGlPdXRFbmFibGVkIDAKTWlkaUluQ2hhbm5lbCAtMQoAAEtRQ1hRUzAwMzYz
+        QQAQAAAA
+      >
+      FLOATPOS 1022 210 917 722
+      FXID {05191EC7-7983-4893-958F-1A6597B4237F}
+      WAK 0
+    >
+    <ITEM
+      POSITION 24.83775312701076
+      SNAPOFFS 0
+      LENGTH 10.12913429021176
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7F3590E2-97F9-4D2C-B048-B22348FD5A39}
+      IID 51
+      NAME "Variation 01 - Variation_01.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.99669352435778 2.50834536963375
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {65816E7F-6EE6-4AD5-9D50-287CDDD6EDB9}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {0EFDEFDA-5B22-4D00-A325-3BE4034DB1B9}
+        <X 0 0
+          /wNWYXJpYXRpb24gMDE=
+        >
+        E 0 90 24 6e
+        E 24 90 2a 7f
+        E 120 90 24 00
+        E 24 90 2a 00
+        E 335 90 2a 5f
+        E 141 90 2a 00
+        E 110 90 24 4e
+        E 141 90 24 00
+        E 59 90 26 7f
+        E 30 90 2a 7f
+        E 70 90 2a 00
+        E 2 90 2a 47
+        E 40 90 26 00
+        E 101 90 2a 00
+        E 250 90 24 6e
+        E 5 90 2a 72
+        E 138 90 24 00
+        E 5 90 2a 00
+        E 105 90 2a 24
+        E 141 90 2a 00
+        E 95 90 2a 53
+        E 142 90 2a 00
+        E 82 90 26 34
+        E 142 90 26 00
+        E 81 90 24 6e
+        E 12 90 2e 7f
+        E 130 90 24 00
+        E 11 90 2e 00
+        E 317 90 2c 41
+        E 25 90 26 7f
+        E 19 90 2a 7f
+        E 98 90 2c 00
+        E 24 90 26 00
+        E 20 90 2a 00
+        E 350 90 2a 58
+        E 143 90 2a 00
+        E 97 90 2a 49
+        E 143 90 2a 00
+        E 68 b0 7b 00
+        GUID {973C2419-E35E-4AC6-B2EE-7DCB6D568AFA}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 74
+        VELLANE -1 100 0
+      >
+    >
+    <ITEM
+      POSITION 34.9668874172734
+      SNAPOFFS 0
+      LENGTH 3.17880794701986
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {624783B7-13B7-4B41-9846-E5685F6B72DF}
+      IID 52
+      NAME "Variation 02 - Variation_02.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {76AD6863-9F80-4119-A36B-636976083A42}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {22AC58F0-ED1A-4388-A5F0-5C1A47A62D04}
+        <X 0 0
+          /wNWYXJpYXRpb24gMDI=
+        >
+        E 0 90 24 6e
+        E 6 90 31 7f
+        E 136 90 24 00
+        E 7 90 31 00
+        E 357 90 2a 52
+        E 142 90 2a 00
+        E 311 90 26 7f
+        E 32 90 2a 7f
+        E 109 90 26 00
+        E 33 90 2a 00
+        E 308 90 24 6e
+        E 22 90 2a 6e
+        E 121 90 24 00
+        E 21 90 2a 00
+        E 93 90 2a 46
+        E 143 90 2a 00
+        E 90 90 2a 58
+        E 142 90 2a 00
+        E 65 90 26 3b
+        E 141 90 26 00
+        E 123 90 2e 7f
+        E 142 90 2e 00
+        E 344 90 26 7f
+        E 32 90 2a 7f
+        E 111 90 26 00
+        E 32 90 2a 00
+        E 300 90 2a 61
+        E 142 90 2a 00
+        E 94 90 2a 3c
+        E 143 90 2a 00
+        E 98 90 24 6e
+        E 24 90 2a 77
+        E 121 90 24 00
+        E 22 90 2a 00
+        E 348 90 2a 63
+        E 143 90 2a 00
+        E 92 90 24 6e
+        E 144 90 24 00
+        E 73 90 26 7f
+        E 21 90 2a 7f
+        E 123 90 26 00
+        E 18 90 2a 00
+        E 316 90 24 6e
+        E 18 90 2a 6d
+        E 126 90 24 00
+        E 17 90 2a 00
+        E 98 90 2a 29
+        E 145 90 2a 00
+        E 95 90 2a 64
+        E 144 90 2a 00
+        E 74 90 26 41
+        E 142 90 26 00
+        E 85 90 24 6e
+        E 22 90 2e 7f
+        E 121 90 24 00
+        E 23 90 2e 00
+        E 323 90 26 7f
+        E 26 90 2a 7f
+        E 118 90 26 00
+        E 25 90 2a 00
+        E 324 90 2a 6b
+        E 144 90 2a 00
+        E 94 90 24 3a
+        E 2 90 2a 29
+        E 144 90 24 00
+        E 0 90 2a 00
+        E 85 b0 7b 00
+        GUID {9D788993-51F4-46FC-9180-003AD601BA5D}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 77
+        VELLANE -1 100 0
+      >
+    >
+    <ITEM
+      POSITION 38.14569536418919
+      SNAPOFFS 0
+      LENGTH 3.17880794701987
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3E19D44E-E315-4EA5-A50A-9923E3E08183}
+      IID 53
+      NAME "Variation 02 - Variation_02.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DDADB45C-A59F-4B3F-91A9-E81B1441D53D}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {EB17FC34-D59F-486B-B0F1-084E6A393306}
+        <X 0 0
+          /wNWYXJpYXRpb24gMDI=
+        >
+        E 0 90 24 6e
+        E 6 90 31 7f
+        E 136 90 24 00
+        E 7 90 31 00
+        E 357 90 2a 52
+        E 142 90 2a 00
+        E 311 90 26 7f
+        E 32 90 2a 7f
+        E 109 90 26 00
+        E 33 90 2a 00
+        E 308 90 24 6e
+        E 22 90 2a 6e
+        E 121 90 24 00
+        E 21 90 2a 00
+        E 93 90 2a 46
+        E 143 90 2a 00
+        E 90 90 2a 58
+        E 142 90 2a 00
+        E 65 90 26 3b
+        E 141 90 26 00
+        E 123 90 2e 7f
+        E 142 90 2e 00
+        E 344 90 26 7f
+        E 32 90 2a 7f
+        E 111 90 26 00
+        E 32 90 2a 00
+        E 300 90 2a 61
+        E 142 90 2a 00
+        E 94 90 2a 3c
+        E 143 90 2a 00
+        E 98 90 24 6e
+        E 24 90 2a 77
+        E 121 90 24 00
+        E 22 90 2a 00
+        E 348 90 2a 63
+        E 143 90 2a 00
+        E 92 90 24 6e
+        E 144 90 24 00
+        E 73 90 26 7f
+        E 21 90 2a 7f
+        E 123 90 26 00
+        E 18 90 2a 00
+        E 316 90 24 6e
+        E 18 90 2a 6d
+        E 126 90 24 00
+        E 17 90 2a 00
+        E 98 90 2a 29
+        E 145 90 2a 00
+        E 95 90 2a 64
+        E 144 90 2a 00
+        E 74 90 26 41
+        E 142 90 26 00
+        E 85 90 24 6e
+        E 22 90 2e 7f
+        E 121 90 24 00
+        E 23 90 2e 00
+        E 323 90 26 7f
+        E 26 90 2a 7f
+        E 118 90 26 00
+        E 25 90 2a 00
+        E 324 90 2a 6b
+        E 144 90 2a 00
+        E 94 90 24 3a
+        E 2 90 2a 29
+        E 144 90 24 00
+        E 0 90 2a 00
+        E 85 b0 7b 00
+        GUID {7EED7C1C-28DF-4815-BC97-08AC960B0E78}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 80
+        VELLANE -1 100 0
+      >
+    >
+    <ITEM
+      POSITION 41.32450331118889
+      SNAPOFFS 0
+      LENGTH 9.13907284775151
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3D35BDA7-A1A1-497A-A022-3AD1D5E7662E}
+      IID 51
+      NAME "Variation 01 - Variation_01.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7A8A1F2F-C3BE-42C1-B074-012D2D82E305}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {E03EC99B-4FDC-4134-B841-2150CA30D890}
+        <X 0 0
+          /wNWYXJpYXRpb24gMDE=
+        >
+        E 0 90 24 6e
+        E 24 90 2a 7f
+        E 120 90 24 00
+        E 24 90 2a 00
+        E 335 90 2a 5f
+        E 141 90 2a 00
+        E 110 90 24 4e
+        E 141 90 24 00
+        E 59 90 26 7f
+        E 30 90 2a 7f
+        E 70 90 2a 00
+        E 2 90 2a 47
+        E 40 90 26 00
+        E 101 90 2a 00
+        E 250 90 24 6e
+        E 5 90 2a 72
+        E 138 90 24 00
+        E 5 90 2a 00
+        E 105 90 2a 24
+        E 141 90 2a 00
+        E 95 90 2a 53
+        E 142 90 2a 00
+        E 82 90 26 34
+        E 142 90 26 00
+        E 81 90 24 6e
+        E 12 90 2e 7f
+        E 130 90 24 00
+        E 11 90 2e 00
+        E 317 90 2c 41
+        E 25 90 26 7f
+        E 19 90 2a 7f
+        E 98 90 2c 00
+        E 24 90 26 00
+        E 20 90 2a 00
+        E 350 90 2a 58
+        E 143 90 2a 00
+        E 97 90 2a 49
+        E 143 90 2a 00
+        E 68 b0 7b 00
+        GUID {973C2419-E35E-4AC6-B2EE-7DCB6D568AFA}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 74
+        VELLANE -1 100 0
+      >
+    >
+    <ITEM
+      POSITION 50.46357615902905
+      SNAPOFFS 0
+      LENGTH 3.57615894032645
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {30D742B1-D34F-49F4-AB73-F2BAE64C44CB}
+      IID 51
+      NAME "Variation 01 - Variation_01.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.19205298020335 3.00000000017842
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {34C6823B-5B98-4B22-9DC5-2E224ACF848E}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {E4D203C4-6942-499E-94F1-E204BF5DFE86}
+        <X 0 0
+          /wNWYXJpYXRpb24gMDE=
+        >
+        E 0 90 24 6e
+        E 24 90 2a 7f
+        E 120 90 24 00
+        E 24 90 2a 00
+        E 335 90 2a 5f
+        E 141 90 2a 00
+        E 110 90 24 4e
+        E 141 90 24 00
+        E 59 90 26 7f
+        E 30 90 2a 7f
+        E 70 90 2a 00
+        E 2 90 2a 47
+        E 40 90 26 00
+        E 101 90 2a 00
+        E 250 90 24 6e
+        E 5 90 2a 72
+        E 138 90 24 00
+        E 5 90 2a 00
+        E 105 90 2a 24
+        E 141 90 2a 00
+        E 95 90 2a 53
+        E 142 90 2a 00
+        E 82 90 26 34
+        E 142 90 26 00
+        E 81 90 24 6e
+        E 12 90 2e 7f
+        E 130 90 24 00
+        E 11 90 2e 00
+        E 317 90 2c 41
+        E 25 90 26 7f
+        E 19 90 2a 7f
+        E 98 90 2c 00
+        E 24 90 26 00
+        E 20 90 2a 00
+        E 350 90 2a 58
+        E 143 90 2a 00
+        E 97 90 2a 49
+        E 143 90 2a 00
+        E 68 b0 7b 00
+        GUID {DF01810D-F86D-48C5-A920-C337F4F62D09}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 133
+        VELLANE -1 100 0
+      >
+    >
+    <ITEM
+      POSITION 54.03973509933775
+      SNAPOFFS 0
+      LENGTH 3.17880794701986
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {ACB5F601-B801-402B-8E2D-E383E2E018E4}
+      IID 52
+      NAME "Variation 02 - Variation_02.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A1FAA80E-07C2-41DE-BAC0-F3F6E32905D6}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {703F2235-4CA1-45B4-9DA1-0AE981FD0116}
+        <X 0 0
+          /wNWYXJpYXRpb24gMDI=
+        >
+        E 0 90 24 6e
+        E 6 90 31 7f
+        E 136 90 24 00
+        E 7 90 31 00
+        E 357 90 2a 52
+        E 142 90 2a 00
+        E 311 90 26 7f
+        E 32 90 2a 7f
+        E 109 90 26 00
+        E 33 90 2a 00
+        E 308 90 24 6e
+        E 22 90 2a 6e
+        E 121 90 24 00
+        E 21 90 2a 00
+        E 93 90 2a 46
+        E 143 90 2a 00
+        E 90 90 2a 58
+        E 142 90 2a 00
+        E 65 90 26 3b
+        E 141 90 26 00
+        E 123 90 2e 7f
+        E 142 90 2e 00
+        E 344 90 26 7f
+        E 32 90 2a 7f
+        E 111 90 26 00
+        E 32 90 2a 00
+        E 300 90 2a 61
+        E 142 90 2a 00
+        E 94 90 2a 3c
+        E 143 90 2a 00
+        E 98 90 24 6e
+        E 24 90 2a 77
+        E 121 90 24 00
+        E 22 90 2a 00
+        E 348 90 2a 63
+        E 143 90 2a 00
+        E 92 90 24 6e
+        E 144 90 24 00
+        E 73 90 26 7f
+        E 21 90 2a 7f
+        E 123 90 26 00
+        E 18 90 2a 00
+        E 316 90 24 6e
+        E 18 90 2a 6d
+        E 126 90 24 00
+        E 17 90 2a 00
+        E 98 90 2a 29
+        E 145 90 2a 00
+        E 95 90 2a 64
+        E 144 90 2a 00
+        E 74 90 26 41
+        E 142 90 26 00
+        E 85 90 24 6e
+        E 22 90 2e 7f
+        E 121 90 24 00
+        E 23 90 2e 00
+        E 323 90 26 7f
+        E 26 90 2a 7f
+        E 118 90 26 00
+        E 25 90 2a 00
+        E 324 90 2a 6b
+        E 144 90 2a 00
+        E 94 90 24 3a
+        E 2 90 2a 29
+        E 144 90 24 00
+        E 0 90 2a 00
+        E 85 b0 7b 00
+        GUID {9D788993-51F4-46FC-9180-003AD601BA5D}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 77
+        VELLANE -1 100 0
+      >
+    >
+    <ITEM
+      POSITION 57.21854304630752
+      SNAPOFFS 0
+      LENGTH 3.17880794701983
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3DA80F22-CFDE-4A25-BAF5-464EE34D97F9}
+      IID 53
+      NAME "Variation 02 - Variation_02.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {162D6438-DCE5-4510-878C-3D2848983E5E}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {77A79D1C-8B5B-48DF-89BA-D4715AA7B30D}
+        <X 0 0
+          /wNWYXJpYXRpb24gMDI=
+        >
+        E 0 90 24 6e
+        E 6 90 31 7f
+        E 136 90 24 00
+        E 7 90 31 00
+        E 357 90 2a 52
+        E 142 90 2a 00
+        E 311 90 26 7f
+        E 32 90 2a 7f
+        E 109 90 26 00
+        E 33 90 2a 00
+        E 308 90 24 6e
+        E 22 90 2a 6e
+        E 121 90 24 00
+        E 21 90 2a 00
+        E 93 90 2a 46
+        E 143 90 2a 00
+        E 90 90 2a 58
+        E 142 90 2a 00
+        E 65 90 26 3b
+        E 141 90 26 00
+        E 123 90 2e 7f
+        E 142 90 2e 00
+        E 344 90 26 7f
+        E 32 90 2a 7f
+        E 111 90 26 00
+        E 32 90 2a 00
+        E 300 90 2a 61
+        E 142 90 2a 00
+        E 94 90 2a 3c
+        E 143 90 2a 00
+        E 98 90 24 6e
+        E 24 90 2a 77
+        E 121 90 24 00
+        E 22 90 2a 00
+        E 348 90 2a 63
+        E 143 90 2a 00
+        E 92 90 24 6e
+        E 144 90 24 00
+        E 73 90 26 7f
+        E 21 90 2a 7f
+        E 123 90 26 00
+        E 18 90 2a 00
+        E 316 90 24 6e
+        E 18 90 2a 6d
+        E 126 90 24 00
+        E 17 90 2a 00
+        E 98 90 2a 29
+        E 145 90 2a 00
+        E 95 90 2a 64
+        E 144 90 2a 00
+        E 74 90 26 41
+        E 142 90 26 00
+        E 85 90 24 6e
+        E 22 90 2e 7f
+        E 121 90 24 00
+        E 23 90 2e 00
+        E 323 90 26 7f
+        E 26 90 2a 7f
+        E 118 90 26 00
+        E 25 90 2a 00
+        E 324 90 2a 6b
+        E 144 90 2a 00
+        E 94 90 24 3a
+        E 2 90 2a 29
+        E 144 90 24 00
+        E 0 90 2a 00
+        E 85 b0 7b 00
+        GUID {7EED7C1C-28DF-4815-BC97-08AC960B0E78}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 80
+        VELLANE -1 100 0
+      >
+    >
+    <ITEM
+      POSITION 60.39735099327726
+      SNAPOFFS 0
+      LENGTH 2.98013245052
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FB1051BC-16BD-4CC2-ACAD-0C53991497B0}
+      IID 51
+      NAME "Variation 01 - Variation_01.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B83A4F98-8585-485D-BCFA-126FECDFDE5B}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {432D7C37-C13E-4BCB-A086-67E0CAD2418B}
+        <X 0 0
+          /wNWYXJpYXRpb24gMDE=
+        >
+        E 0 90 24 6e
+        E 24 90 2a 7f
+        E 120 90 24 00
+        E 24 90 2a 00
+        E 335 90 2a 5f
+        E 141 90 2a 00
+        E 110 90 24 4e
+        E 141 90 24 00
+        E 59 90 26 7f
+        E 30 90 2a 7f
+        E 70 90 2a 00
+        E 2 90 2a 47
+        E 40 90 26 00
+        E 101 90 2a 00
+        E 250 90 24 6e
+        E 5 90 2a 72
+        E 138 90 24 00
+        E 5 90 2a 00
+        E 105 90 2a 24
+        E 141 90 2a 00
+        E 95 90 2a 53
+        E 142 90 2a 00
+        E 82 90 26 34
+        E 142 90 26 00
+        E 81 90 24 6e
+        E 12 90 2e 7f
+        E 130 90 24 00
+        E 11 90 2e 00
+        E 317 90 2c 41
+        E 25 90 26 7f
+        E 19 90 2a 7f
+        E 98 90 2c 00
+        E 24 90 26 00
+        E 20 90 2a 00
+        E 350 90 2a 58
+        E 143 90 2a 00
+        E 97 90 2a 49
+        E 143 90 2a 00
+        E 68 b0 7b 00
+        GUID {973C2419-E35E-4AC6-B2EE-7DCB6D568AFA}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 74
+        VELLANE -1 100 0
+      >
+    >
+    <ITEM
+      POSITION 76.29139072847683
+      SNAPOFFS 0
+      LENGTH 3.17880794701966
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7F904900-4614-453A-B7A2-64EFBFD02573}
+      IID 52
+      NAME "Variation 02 - Variation_02.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {71751138-7806-4511-96CF-02DB2905150B}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {7F23A815-34C6-499E-ABD5-DF038FB13351}
+        <X 0 0
+          /wNWYXJpYXRpb24gMDI=
+        >
+        E 0 90 24 6e
+        E 6 90 31 7f
+        E 136 90 24 00
+        E 7 90 31 00
+        E 357 90 2a 52
+        E 142 90 2a 00
+        E 311 90 26 7f
+        E 32 90 2a 7f
+        E 109 90 26 00
+        E 33 90 2a 00
+        E 308 90 24 6e
+        E 22 90 2a 6e
+        E 121 90 24 00
+        E 21 90 2a 00
+        E 93 90 2a 46
+        E 143 90 2a 00
+        E 90 90 2a 58
+        E 142 90 2a 00
+        E 65 90 26 3b
+        E 141 90 26 00
+        E 123 90 2e 7f
+        E 142 90 2e 00
+        E 344 90 26 7f
+        E 32 90 2a 7f
+        E 111 90 26 00
+        E 32 90 2a 00
+        E 300 90 2a 61
+        E 142 90 2a 00
+        E 94 90 2a 3c
+        E 143 90 2a 00
+        E 98 90 24 6e
+        E 24 90 2a 77
+        E 121 90 24 00
+        E 22 90 2a 00
+        E 348 90 2a 63
+        E 143 90 2a 00
+        E 92 90 24 6e
+        E 144 90 24 00
+        E 73 90 26 7f
+        E 21 90 2a 7f
+        E 123 90 26 00
+        E 18 90 2a 00
+        E 316 90 24 6e
+        E 18 90 2a 6d
+        E 126 90 24 00
+        E 17 90 2a 00
+        E 98 90 2a 29
+        E 145 90 2a 00
+        E 95 90 2a 64
+        E 144 90 2a 00
+        E 74 90 26 41
+        E 142 90 26 00
+        E 85 90 24 6e
+        E 22 90 2e 7f
+        E 121 90 24 00
+        E 23 90 2e 00
+        E 323 90 26 7f
+        E 26 90 2a 7f
+        E 118 90 26 00
+        E 25 90 2a 00
+        E 324 90 2a 6b
+        E 144 90 2a 00
+        E 94 90 24 3a
+        E 2 90 2a 29
+        E 144 90 24 00
+        E 0 90 2a 00
+        E 85 b0 7b 00
+        GUID {4F199202-FAE7-4527-A9B5-D9DCDC258E65}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 142
+        VELLANE -1 100 0
+      >
+    >
+    <ITEM
+      POSITION 79.47019867532985
+      SNAPOFFS 0
+      LENGTH 3.17880794701975
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {73222762-EA13-4389-B1F4-2CA08F771C2D}
+      IID 53
+      NAME "Variation 02 - Variation_02.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {335BE138-58FA-4087-8FF6-D80B89C6DADE}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {709497A4-64DD-4138-88C4-E70C1C643CD2}
+        <X 0 0
+          /wNWYXJpYXRpb24gMDI=
+        >
+        E 0 90 24 6e
+        E 6 90 31 7f
+        E 136 90 24 00
+        E 7 90 31 00
+        E 357 90 2a 52
+        E 142 90 2a 00
+        E 311 90 26 7f
+        E 32 90 2a 7f
+        E 109 90 26 00
+        E 33 90 2a 00
+        E 308 90 24 6e
+        E 22 90 2a 6e
+        E 121 90 24 00
+        E 21 90 2a 00
+        E 93 90 2a 46
+        E 143 90 2a 00
+        E 90 90 2a 58
+        E 142 90 2a 00
+        E 65 90 26 3b
+        E 141 90 26 00
+        E 123 90 2e 7f
+        E 142 90 2e 00
+        E 344 90 26 7f
+        E 32 90 2a 7f
+        E 111 90 26 00
+        E 32 90 2a 00
+        E 300 90 2a 61
+        E 142 90 2a 00
+        E 94 90 2a 3c
+        E 143 90 2a 00
+        E 98 90 24 6e
+        E 24 90 2a 77
+        E 121 90 24 00
+        E 22 90 2a 00
+        E 348 90 2a 63
+        E 143 90 2a 00
+        E 92 90 24 6e
+        E 144 90 24 00
+        E 73 90 26 7f
+        E 21 90 2a 7f
+        E 123 90 26 00
+        E 18 90 2a 00
+        E 316 90 24 6e
+        E 18 90 2a 6d
+        E 126 90 24 00
+        E 17 90 2a 00
+        E 98 90 2a 29
+        E 145 90 2a 00
+        E 95 90 2a 64
+        E 144 90 2a 00
+        E 74 90 26 41
+        E 142 90 26 00
+        E 85 90 24 6e
+        E 22 90 2e 7f
+        E 121 90 24 00
+        E 23 90 2e 00
+        E 323 90 26 7f
+        E 26 90 2a 7f
+        E 118 90 26 00
+        E 25 90 2a 00
+        E 324 90 2a 6b
+        E 144 90 2a 00
+        E 94 90 24 3a
+        E 2 90 2a 29
+        E 144 90 24 00
+        E 0 90 2a 00
+        E 85 b0 7b 00
+        GUID {7EED7C1C-28DF-4815-BC97-08AC960B0E78}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 80
+        VELLANE -1 100 0
+      >
+    >
+    <ITEM
+      POSITION 82.64900662241642
+      SNAPOFFS 0
+      LENGTH 9.13907284778394
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 5.697663 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {487CA0F2-A92B-4058-AFC4-9C97760135FE}
+      IID 51
+      NAME "Variation 01 - Variation_01.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F198E3F4-98BF-480E-B9D4-99C577C7BC8A}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {2CAEC39E-2BEE-45F3-912F-C77074C064EB}
+        <X 0 0
+          /wNWYXJpYXRpb24gMDE=
+        >
+        E 0 90 24 6e
+        E 24 90 2a 7f
+        E 120 90 24 00
+        E 24 90 2a 00
+        E 335 90 2a 5f
+        E 141 90 2a 00
+        E 110 90 24 4e
+        E 141 90 24 00
+        E 59 90 26 7f
+        E 30 90 2a 7f
+        E 70 90 2a 00
+        E 2 90 2a 47
+        E 40 90 26 00
+        E 101 90 2a 00
+        E 250 90 24 6e
+        E 5 90 2a 72
+        E 138 90 24 00
+        E 5 90 2a 00
+        E 105 90 2a 24
+        E 141 90 2a 00
+        E 95 90 2a 53
+        E 142 90 2a 00
+        E 82 90 26 34
+        E 142 90 26 00
+        E 81 90 24 6e
+        E 12 90 2e 7f
+        E 130 90 24 00
+        E 11 90 2e 00
+        E 317 90 2c 41
+        E 25 90 26 7f
+        E 19 90 2a 7f
+        E 98 90 2c 00
+        E 24 90 26 00
+        E 20 90 2a 00
+        E 350 90 2a 58
+        E 143 90 2a 00
+        E 97 90 2a 49
+        E 143 90 2a 00
+        E 68 b0 7b 00
+        GUID {973C2419-E35E-4AC6-B2EE-7DCB6D568AFA}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 74
+        VELLANE -1 100 0
+      >
+    >
+  >
+  <TRACK {1E1C731F-57C5-4A37-B51F-163A828C640C}
+    NAME "fuzz left"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.61510571964017 -1 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1E1C731F-57C5-4A37-B51F-163A828C640C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 1258 72 1265 944
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: Guitar Rig 5 (Native Instruments GmbH)" "Guitar Rig 5.dll" 0 ""
+        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
+      >
+      FLOATPOS 24 52 1035 897
+      FXID {6EB7B619-934E-4DFF-92E4-AFF5FD8B21DC}
+      WAK 0
+    >
+    <ITEM
+      POSITION 24.9213302278165
+      SNAPOFFS 0
+      LENGTH 25.5422459311239
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {25507BB2-1409-400B-89A9-4CFB54783628}
+      IID 116
+      NAME D__Recording_04-151224_1542.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.23260006908634
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E5247C52-8F9C-4AC2-A421-171C8EAE4605}
+      RECPASS 18
+      <SOURCE WAVE
+        FILE "D:\Recording\D__Recording_04-151224_1542.wav"
+      >
+    >
+    <ITEM
+      POSITION 50.46357615902905
+      SNAPOFFS 0
+      LENGTH 0.79470198675498
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1B2546C3-88A9-4F07-8DF2-40E942FE1690}
+      IID 116
+      NAME D__Recording_04-151224_1542.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 59.20530957636918
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {440BBF4D-1CFB-4DCB-ADBF-B68B332EE44F}
+      RECPASS 18
+      <SOURCE WAVE
+        FILE "D:\Recording\D__Recording_04-151224_1542.wav"
+      >
+    >
+    <ITEM
+      POSITION 51.25827814578402
+      SNAPOFFS 0
+      LENGTH 12.11920529801333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FA2CB0A5-71FD-4409-A2B7-616FB10AEE14}
+      IID 116
+      NAME D__Recording_04-151224_1542.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 60.00001156312414
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {71FBB12F-97D2-47AE-876B-BCA29C1C0999}
+      RECPASS 18
+      <SOURCE WAVE
+        FILE "D:\Recording\D__Recording_04-151224_1542.wav"
+      >
+    >
+    <ITEM
+      POSITION 63.37748344379735
+      SNAPOFFS 0
+      LENGTH 0.26115377896109
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.173362 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E93178CE-4E1C-4E1B-90A4-8F86562AEA00}
+      IID 116
+      NAME D__Recording_04-151224_1542.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 72.1192168611374
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CBDB16F7-4BB1-4E75-A2EE-1FB1527173A6}
+      RECPASS 18
+      <SOURCE WAVE
+        FILE "D:\Recording\D__Recording_04-151224_1542.wav"
+      >
+    >
+    <ITEM
+      POSITION 76.29139072847683
+      SNAPOFFS 0
+      LENGTH 12.91390728457934
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {27D9F816-7E2A-4814-88B9-4606022486E1}
+      IID 51
+      NAME "Variation 01 - Variation_01.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.39072847701011 3.50000000047547
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BD192B68-1DBF-4547-BB5D-531A5925D150}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {F1648CC7-35CD-4485-80A7-74DD291E2F61}
+        <X 0 0
+          /wNWYXJpYXRpb24gMDE=
+        >
+        E 0 90 24 6e
+        E 24 90 2a 7f
+        E 120 90 24 00
+        E 24 90 2a 00
+        E 335 90 2a 5f
+        E 141 90 2a 00
+        E 110 90 24 4e
+        E 141 90 24 00
+        E 59 90 26 7f
+        E 30 90 2a 7f
+        E 70 90 2a 00
+        E 2 90 2a 47
+        E 40 90 26 00
+        E 101 90 2a 00
+        E 250 90 24 6e
+        E 5 90 2a 72
+        E 138 90 24 00
+        E 5 90 2a 00
+        E 105 90 2a 24
+        E 141 90 2a 00
+        E 95 90 2a 53
+        E 142 90 2a 00
+        E 82 90 26 34
+        E 142 90 26 00
+        E 81 90 24 6e
+        E 12 90 2e 7f
+        E 130 90 24 00
+        E 11 90 2e 00
+        E 317 90 2c 41
+        E 25 90 26 7f
+        E 19 90 2a 7f
+        E 98 90 2c 00
+        E 24 90 26 00
+        E 20 90 2a 00
+        E 350 90 2a 58
+        E 143 90 2a 00
+        E 97 90 2a 49
+        E 143 90 2a 00
+        E 68 b0 7b 00
+        GUID {D67C281C-50A9-4B56-B0C2-4A4FC30C3B06}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 141
+        VELLANE -1 100 0
+      >
+    >
+  >
+  <TRACK {29467206-6B09-4F99-BBA2-39D7D4FB08F2}
+    NAME "800 left"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.61510571964017 -1 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {29467206-6B09-4F99-BBA2-39D7D4FB08F2}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 1258 72 1265 944
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: Guitar Rig 5 (Native Instruments GmbH)" "Guitar Rig 5.dll" 0 ""
+        NUdpTu5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAJQQAAABAAAACgAQAC1pbi0CAAAAI05JI0NTI0RvY3Vt
+        ZW50IyNOSSNTb3VuZFNoZWxsI1NvdW5kIwAAAAAAAAAAAAAARQEAAGF0YWQCAAAAZG5zc2JpbHoWAAAAEAAAAHjaY2JgYND19NM1dc/0AzIZABGlAidhdGFkAgAAAG9m
+        bmliaWx6BwEAAIYCAAB42pWSvW7DIBSF5/opEHsKkTJYFSbqkLRDh8hqp6oDtq8jVBsswFb79sU/wY6lRu3GOXyHc0Gw/VddoQ6MlVoleHtPMQKV60Kqc4LfXo+bGCPr
+        hCpEpRUkWGmM9jxiVrfKQ6WewztKMY8ihFhjdAPGSbDcS28oUQN/T3X2DKL7jun2g5HB62myxHsjE+rzkuzX/KmVThiUyjPaMTJYQ3AC+3Wu68YPqNwlGIxVevZvcehk
+        9IpdyKlTOGdk1rpwzWCM2judqFrgh7KE3DEyqpElK/jX8DTWY93YqxM80FowGwuOp6cHQq7AsPXPthcQBYop/XPV3Zy42bmQ/fMxEn4Qj34AaofIFGF0YWQCAAAAdHNy
+        cGJpbHrFDgAAsJIAAHja7V1bd9q6Eu557a/w4rXLxXebLtq9EpLQJCWlAXJbfRHGEG18276EJD/j/IbzQ4+MbzLGATsJcrPTlwZfRp9GM6OZ0UimfvSu/vPhw4f//ffD
+        h/Zf94ZO3WmOCy3za4P9zDQozVStCTRnXxuj4RGtNCjXA+YE6JapfW2YVoP669vH9syhoel6jm9opkert745p8Y+1Ce06Rtjzfna4CSBbVCqZdjoRfSMDdQ5DSeokZbM
+        CC1JUbgGNXWAoS0sJ7yDGjfA35ZDJ4BEdAWqjpVeCZ6BJv4MasV2NFcraMKDBsJ95ECqBx4oRqJY+QvDfWEZimNYqfHt40eKaruWb07oCfDAGLgaNdOtMdBpQ/Mcy7SM
+        Zau3EDVCG9ZEi0BMIOo3ME1NRw1KjWZICTHGQTAwnqImKPSvPYX3dMIOl0J8oqGnGS56RIieWX2KCjqjtBgGNWiCoB/np8mj6OHgQV3ztPRSdLH4bcr3l5flkT15POMh
+        4y9EUdyzTn9cDWdfvzZwUjgxeubD7D109w5qC2yIUW9sHXgaPQbm/Gujse5WCCQQKsvRJnRAIWKq0KBWf7lwrKO/p0B3tYDBmcabT2DDcAN/Aq10OLhGrhc2CKTQQ08g
+        2QeoRfSOZxnAiwUuGKr0oaXEIZ3woJp5kM1RxmkvBwPuxSNxbAZapWp7qgfvNNRXoPtLwcrTQFQCocQQUI5mWIiXBrhfgol/wiXc5hoYzeTlXO/TW24xg5dMzEhZehOT
+        x2ZeINuJbjpegqzdzIj5E8Iv4dILZ9SpZSKd1EsqQRGVSBm6B/Pu9/6I4/e7ojnbOz/pec7PPaLKwGaUga2xMjAFytCsozTx6wWB4soKVDGhSKaax9MT+PjL/TTvPqp3
+        R7Ob62P5bO/dwL4b2HqphFIkyXxZR6OYUKQSlxfSIZB+nT4w/tGxMfCVR7938O5zvKtEzVSCwwR5bzmSx2ZJZVhLIlID9ye40UaXewvG/6HMzI4/XAz12bu38ea8DRaz
+        hygkLClCq29H0nPh/dSdu/tRc34qXfH7Jxf3n7zRu1+xRnrYvPTIVY0oZkNt36O6AJqp/fws7tyC5gB2Y4BdNFbUT7P5czpNELLk8Q0z+Ia3SLFuLX2CMbEGIHsXMcoe
+        cIOLF5buG9hM+VmRRF5SyCP9EQP9AQ0YXFwZcaYGEDsJRm3qUZ0wVVYnmTzvYO7qbR7iu2O0Gj7jucQhsLUDTZ1TbNnYuYBKNMH9bbPSuSPC4WjwcNX75Szg4mfv19uZ
+        4DzU4wnqMQv8HOr4XiBiOckpMzVWmRxbayfHAiXIapKeqLpl2Rv05wU0aIOa5+B5WiJuaLCt1AYx9YHoJBAdYLq25Wo15KOfgPTNGuKz72J8+YlbkCS2LjidBOe5plrO
+        ZNXPqA1Q2MdyB5rjUX3LhYFdqN/Y6y5ug6iBh6a4GqLUMigPzQnxQS/2OTZ4HcHtgslsZxG2wGK+xAAiKLcoNKOWUVrZePtJWpFzwrNnzI2zd31zeOle/iPBx8FZZ7Ag
+        6pwwGeeEqXH0zTJbexgranPBFBr2GsTeh2yM7vAeXTOBHgtNfWKdH1waMaLQ1qxTpNjjk7Db97RaxbACHsPWKnYVM7FrnaAdSTG0I6ijiyzVQdper+TEkZzFyK1irAMf
+        lSzGWilGK/VjUPC+f/kvSZpkCLixj0DDwNzTBc89bzZ7FucKufb8GWwnuErMWjvBs/VMtRvubDs77QTN9jPSTuBUmIV2g6v8zLMbXNvPNrsR7hIzzGsAaje3Mu/o7fzl
+        7QNYAU+F+yZie7mgNf9+XGQw79iPj8eLv0dAHT+Oe+qJ75ySLTLgMoEqV+NAVaoapx5ZiRJZzrxODtswyeQNEduoPvTU2wSf1CIP0PUc1fSS9IvnWGOt2Qkq5evExold
+        Nk2/U3jONE0sTzVHM9UUniDUAKDbSxNsemDEesgY/HmxQ7BUF1hbKk66NYlkP/Eqs160V0Urm/ZcTySaRm7G59rZ/ffz6/npLXOvdHn9Wp69ocr4eIcP8ClVD3YPTWFA
+        qfPld9+xZkgyKOQNae7vjmUYlhn9OANB/SR1nOx/cn93fegBhwrKXkX0sIliFe93ws3furVA5O+0zwtwh7qrQ9TSGHoGcOfLLoRXXqftW4g1bfi6B209ZFzIY6GJwgg3
+        0EZVS0HRwXq8OQk2cqHbvm2Hf+16TVqsvibdXyRLqluVQxFYDRqYiTV8MNX64RsadsHCuVgbjD1/bUheG3wXesmli5qv+KUW82WTaTFdPMyK7GJomZFpohODmbFjmPGK
+        nhC4ltCSZK4lbmHFniP0rxN5ruPFi4WcEr4Zbs+w90ygP7ilI89CMpHnsD9eHDmMoZ/Njbvx2f5hF4oL4X2zx9urchdFTBD6S1JxPUs5iXqCUCRT6klnMTU4XR11uaks
+        gPOL4bU0e199f2FXatWRuiiewZYb6AnHlAcJvgPnYbtSqp3iu0zwXWISXR98vavEg4L3dQLWv8KsARVsgqEQQmjO/o2LjUuStFVimbGk3u4kq19SV3ezqLel/O8ETBWZ
+        3wmwklbsdRzjDUrwTM9YZtZtTCh7NEARlciH4UD/8AoyzKfR6ePheObKJzO1+wa3N3B1294gVU8l/Sl15TXfhgEHeLqLGlpUuM3uvZj8zRST/zFbHV6k6p0jU/XewjfQ
+        RTtVj65KTlMFRKJZanr28EnqdidHhxJ7N/Cvvvd77sHiPXuzXZ171V3mZZcs6rkymt5VLdMDMFgnVcNlKXo5ZlCH3kOS90qPxFvnCaLR9vUlBydjCpqIVnrwnxATQJfV
+        4BE3IYqY7iC9caxFeA0b39UWbi3XwwYKNZMbT/bV13dXLkYcb5uWSa+7kV/FxXNng7mjoT+SVOxjXxFvpsCQR53B4yFz0JGvfZhV5mJFrq7Ex2fHw82KjC/geo6f0eNC
+        Hd5Wf8vrrrKVl/gMvd1JsNbZGwywWhrN0SzS8eOFVbwQJikSS4hTQxOvi8Iw8bzCKoSSJE6aJMkc1PRZYASREKj9xCXeB65LvmS9k4hTR9eASR7QfjJq+06mAHpXiNbP
+        2IWz9ZpZbHVBBl/i+6GBCaUEv8NJZfx4b8yHD25z9M9hX3WUX6Zl3/x6n1TWOoTi+6zySrMKi6dL9wx7zZE9rCTKhNBxG88TYlmGJ2Sv1tpzUjn4NAWPnwnFSTypSXiY
+        FvpqYx0fM1mRSXkrfSezPo6X9yJcjKxwhHAtElzWAkvoEWLTBUj4hP6EQMW5JDM8IS4NZonxBNh6zmempQh8i9CuLddOE3Qumv7wgvbPHCMypPxNmNgnCHB/U+ZYgRCz
+        vicDuG9ZLvEtbl0hMZvdcyFbSs/+mS5ncARH6nN2ohOEzy3LSM5q57XFkeDIrdHDhQSup0NvctPZI+Z3Fm9qqoHfybfehN9ZvPrGt1iBkPs0Y9MTLaEZHF9HlkkzLoOH
+        w9MrjNQiZMVnfAYVn3V9WwIhVEIGlUA6ipmJGTwicTxSBo9EHI+cwSMTx6Nk8Ch4qkdmWoQSUHYaCwPcIBHLiNkcDoirASAeB4QbI4FtcYSSBLaAgxJqwCURByTWAJCE
+        A5JqAEjGAck1AKTggDL2SGB4QrWeBovvzMINEiE8XAYPRxxP5jAZ3BwRwiNk8BD3igwxg4e4V2RIGTzEvSJDzuAh7hUZSgaPQhqPm9ifgaVb5O2Py2XwELc/Lp/BQ9z+
+        uEIGD3H744oZPMTtjytl8BC3P66cwUPc/rhKBg9x+5NWO2uen5ZjE8pXuTVbuQXJ3mHo4GshCiMT4tC4oMBFEnlSqzNe4SLkn1FS0m6ur2BsN6PPJIffTHY0oAefaVbD
+        fP9kvObrydE9XXPirzQHhZ9TOItrQKO76JVUfrC3KN1S52F9aPQpZKqvTYCOZc2XdwMs2l3QteVuHSX4iLWrW178gWrPms307Jk/T7dyCtX5gbUwNzQUiH3aEJs2xG7b
+        0GARHOpFsZmG2NWGWEZoYQ1xeEN45Woih+lYr1aXhosQ4XkM4J5O8t/BB7rpxLokZyRRS5p0dmUhqpD1HT1YfvHALNjZhQQm/OXMtAh1WN8aXYlC3WCdIr4SfXQcZ1Yz
+        5VYpBnJPjxTLMyLGQL76SPEbGhIlXPaE6g0JGxpSWBlrSNyyITbfkPi07HE446TSkhedCYD+uyspfHxW+LYWu1WRy8kbXVrg1nBN2sA1BRcDuSrbzrR7ryTbuBqyLTrl
+        8imGiTwuzkpphkVNPMe8ZU6325JrQt7EBcflPdfCrRE45Wn+yS18KmqV5h92itxzeDgE9vbzA5dn3tB+2ekhORp76TeszLP5CZ3n8HmWreI6rLS4YWLiRAW3ryxbtsUz
+        bUFFJRdPCwh+vFLaXnlXAv/423Mkpa+Dh61FJfr8XEZUbL2cqOBXVtzR6AGgIUyoy1s4p2HDObc0YCzmceZOmix6PfU3QwpslgK7mULqSIYUuKoUuJgCX5UCH1MQqlIQ
+        YgpiVQpiTEFapZCp4VmSWEplRpYj/yMvTGFrW2KQYgxyZQxcNQzRZBi2rlTloRJTaJWmkDe7kVyXV428PY1IseVIZQxlRKJISdrNyBREP19tQ2M7DPDXxNBCI19tR4fW
+        XF9+ViHIFgSNrFzLHpXXTmHRgc1L6WcXztsRq9KmsAAuNYU0HoJuafzLhH+RlOOIX6ovQmFXlGpdedrNe8WeRG7Tuq60qnXlaafrFbsSTevrusJWlLCnvYIn+oInyFZ0
+        KnnENYHt3loenldLri21MflVuIO53Vyh0m6uGIHo8lZ7nBOq0YPLCtPUeUtfT7jBMRurcpsVqCrKxuOnq5CVpY2fGK5CNgiWNhztU4Ess3HzdgWiPCNt/JBhFRaI0sYT
+        GiuQlTduNayENSF74f3Unbv7UXN+Kl3x+ycX95+8UVXhkriNX96oMmAKv/FEjsTPyCl5mGnPJdfDnDtqEwQ2qxn+RG1EcQw1tRzDACaYBQiSszWCh4AaHD5OL0Mr4N1S
+        0e8o8LKcCfKuYkPJroRgEQn8WWjOkK+DbPXSgja/LVcFYHKyOa3e+ub828f/A+mYgj9hdGFkAgAAAEROU1NiaWx6FgAAABAAAAB42mNiYGDQ9fTTNXXP9AMyGQARpQIn
+        AAAQAAAA
+      >
+      FLOATPOS 24 52 1035 897
+      FXID {6EB7B619-934E-4DFF-92E4-AFF5FD8B21DC}
+      WAK 0
+    >
+    <ITEM
+      POSITION 24.9213302278165
+      SNAPOFFS 0
+      LENGTH 25.5422459311239
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {25507BB2-1409-400B-89A9-4CFB54783628}
+      IID 116
+      NAME D__Recording_04-151224_1542.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.23260006908634
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E5247C52-8F9C-4AC2-A421-171C8EAE4605}
+      RECPASS 18
+      <SOURCE WAVE
+        FILE "D:\Recording\D__Recording_04-151224_1542.wav"
+      >
+    >
+    <ITEM
+      POSITION 50.46357615902905
+      SNAPOFFS 0
+      LENGTH 0.79470198675498
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C8AA81B0-A984-4ADE-964D-77A93A362B24}
+      IID 116
+      NAME D__Recording_04-151224_1542.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 59.20530957636918
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2284CDE3-0656-4946-9FEB-3F1ABB3B4A49}
+      RECPASS 18
+      <SOURCE WAVE
+        FILE "D:\Recording\D__Recording_04-151224_1542.wav"
+      >
+    >
+    <ITEM
+      POSITION 51.25827814578402
+      SNAPOFFS 0
+      LENGTH 12.11920529801333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5F8DDE52-CE3E-4355-9DD5-CDF45821B6C2}
+      IID 116
+      NAME D__Recording_04-151224_1542.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 60.00001156312414
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0D291F61-1C6D-4DE7-93C1-BB2F36A04928}
+      RECPASS 18
+      <SOURCE WAVE
+        FILE "D:\Recording\D__Recording_04-151224_1542.wav"
+      >
+    >
+    <ITEM
+      POSITION 63.37748344379735
+      SNAPOFFS 0
+      LENGTH 0.26945563855352
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.167014 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AE5A0E1F-430D-41B5-9ADE-CA82233A3929}
+      IID 116
+      NAME D__Recording_04-151224_1542.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 72.1192168611374
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {44AD6E18-A8CA-4704-BBE7-B0A3C0ECA969}
+      RECPASS 18
+      <SOURCE WAVE
+        FILE "D:\Recording\D__Recording_04-151224_1542.wav"
+      >
+    >
+  >
+  <TRACK {3CA784B8-E254-4A1F-98D9-6767FDC72426}
+    NAME "fuzz right"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.46415452868198 1 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3CA784B8-E254-4A1F-98D9-6767FDC72426}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 920 99 1265 944
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: Guitar Rig 5 (Native Instruments GmbH)" "Guitar Rig 5.dll" 0 ""
+        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
+      >
+      FLOATPOS 24 52 1035 897
+      FXID {6EB7B619-934E-4DFF-92E4-AFF5FD8B21DC}
+      WAK 0
+    >
+    <ITEM
+      POSITION 24.92869033715726
+      SNAPOFFS 0
+      LENGTH 25.53488582178314
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C17D504C-C7BC-45ED-9CD7-88EF58509C0E}
+      IID 118
+      NAME D__Recording_05-151224_1543.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 5.85583319430011
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CCF74D8A-8366-4A7F-B73B-71E9F625E55B}
+      RECPASS 19
+      <SOURCE WAVE
+        FILE "D:\Recording\D__Recording_05-151224_1543.wav"
+      >
+    >
+    <ITEM
+      POSITION 50.46357615902905
+      SNAPOFFS 0
+      LENGTH 0.79470198675498
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D106655E-3A99-474C-8A92-502F1A9F9365}
+      IID 118
+      NAME D__Recording_05-151224_1543.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 56.8211825922422
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6BE004F7-FC3B-4159-B5BD-A0DF173BA901}
+      RECPASS 19
+      <SOURCE WAVE
+        FILE "D:\Recording\D__Recording_05-151224_1543.wav"
+      >
+    >
+    <ITEM
+      POSITION 51.25827814578402
+      SNAPOFFS 0
+      LENGTH 12.11920529801333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {71B5B9DB-022C-46B4-A61C-6C67D89F50D9}
+      IID 118
+      NAME D__Recording_05-151224_1543.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 57.61588457899715
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C4DC2A0B-B229-434D-B6BD-EF13F61370FE}
+      RECPASS 19
+      <SOURCE WAVE
+        FILE "D:\Recording\D__Recording_05-151224_1543.wav"
+      >
+    >
+    <ITEM
+      POSITION 63.37748344379735
+      SNAPOFFS 0
+      LENGTH 0.28666099838647
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.187337 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A02C17DA-1AF1-4034-86FB-31020617C4DF}
+      IID 118
+      NAME D__Recording_05-151224_1543.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 69.73508987701041
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9EA3FF4C-1D3D-4F3E-BD91-59FA309E4BCE}
+      RECPASS 19
+      <SOURCE WAVE
+        FILE "D:\Recording\D__Recording_05-151224_1543.wav"
+      >
+    >
+  >
+  <TRACK {CB842291-F218-4BA7-ACE3-8C6F1A7DFA2E}
+    NAME "800 right"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.61510571964017 1 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {CB842291-F218-4BA7-ACE3-8C6F1A7DFA2E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 920 99 1265 944
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: Guitar Rig 5 (Native Instruments GmbH)" "Guitar Rig 5.dll" 0 ""
+        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
+        pQInAAAQAAAA
+      >
+      FLOATPOS 24 52 1035 897
+      FXID {6EB7B619-934E-4DFF-92E4-AFF5FD8B21DC}
+      WAK 0
+    >
+    <ITEM
+      POSITION 24.92869033715726
+      SNAPOFFS 0
+      LENGTH 25.53488582178314
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C17D504C-C7BC-45ED-9CD7-88EF58509C0E}
+      IID 118
+      NAME D__Recording_05-151224_1543.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 5.85583319430011
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CCF74D8A-8366-4A7F-B73B-71E9F625E55B}
+      RECPASS 19
+      <SOURCE WAVE
+        FILE "D:\Recording\D__Recording_05-151224_1543.wav"
+      >
+    >
+    <ITEM
+      POSITION 50.46357615902905
+      SNAPOFFS 0
+      LENGTH 0.79470198675498
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5C698E8A-B0F5-4561-9241-B1008ABF6DA9}
+      IID 118
+      NAME D__Recording_05-151224_1543.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 56.8211825922422
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5C13B64D-DABC-414F-B35F-21E2AD98F765}
+      RECPASS 19
+      <SOURCE WAVE
+        FILE "D:\Recording\D__Recording_05-151224_1543.wav"
+      >
+    >
+    <ITEM
+      POSITION 51.25827814578402
+      SNAPOFFS 0
+      LENGTH 12.11920529801333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {ED447724-655D-4ED5-8238-7B4A67B9B2AC}
+      IID 118
+      NAME D__Recording_05-151224_1543.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 57.61588457899715
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F7C326CF-0D87-4E32-AEF2-0BE12ED4D28B}
+      RECPASS 19
+      <SOURCE WAVE
+        FILE "D:\Recording\D__Recording_05-151224_1543.wav"
+      >
+    >
+    <ITEM
+      POSITION 63.37748344379735
+      SNAPOFFS 0
+      LENGTH 0.28666099838647
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.187337 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {232DCD54-AD70-4776-9972-C3D12D8B2C1E}
+      IID 118
+      NAME D__Recording_05-151224_1543.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 69.73508987701041
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {61E87D23-A69D-4D5A-A79C-C75D671FD9DB}
+      RECPASS 19
+      <SOURCE WAVE
+        FILE "D:\Recording\D__Recording_05-151224_1543.wav"
+      >
+    >
+  >
+  <TRACK {2D36A0BE-6C20-4C27-94B6-D148764D3352}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 1 1026 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2D36A0BE-6C20-4C27-94B6-D148764D3352}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 24.63576158940397
+      SNAPOFFS 0
+      LENGTH 25.82781456953643
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B8842D0B-6853-49C5-919A-481F2460097E}
+      IID 119
+      NAME D__Recording_06-151224_1557.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 5.56290444654683
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B20F06AE-BB4B-4626-BEAE-031AC1C9589B}
+      RECPASS 20
+      <SOURCE WAVE
+        FILE "D:\Recording\D__Recording_06-151224_1557.wav"
+      >
+    >
+    <ITEM
+      POSITION 50.46357615902905
+      SNAPOFFS 0
+      LENGTH 0.79470198675498
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8DDC5B88-D835-4C22-9D7A-54A257DB8602}
+      IID 119
+      NAME D__Recording_06-151224_1557.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 56.8211825922422
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4D40C887-4CA9-4A15-BA0E-22B8E695DB98}
+      RECPASS 20
+      <SOURCE WAVE
+        FILE "D:\Recording\D__Recording_06-151224_1557.wav"
+      >
+    >
+    <ITEM
+      POSITION 51.25827814578402
+      SNAPOFFS 0
+      LENGTH 12.11920529801333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A50FE000-42D8-4699-8289-7691FBC07772}
+      IID 119
+      NAME D__Recording_06-151224_1557.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 57.61588457899716
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BE44D716-2D15-4BC0-9ACB-1A8B5905C22E}
+      RECPASS 20
+      <SOURCE WAVE
+        FILE "D:\Recording\D__Recording_06-151224_1557.wav"
+      >
+    >
+    <ITEM
+      POSITION 76.09271523178808
+      SNAPOFFS 0
+      LENGTH 13.50993377483439
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.157879 0 1 0 0
+      FADEOUT 1.1 0.01 0.794702 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {F1BC3534-9D44-45E5-8F6C-6682A13CD50E}
+      IID 119
+      NAME D__Recording_06-151224_1557.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 18.8741627246925
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {24012CBD-86A5-40EB-95D5-8C46F36FB305}
+      RECPASS 20
+      <SOURCE WAVE
+        FILE "D:\Recording\D__Recording_06-151224_1557.wav"
+      >
+    >
+    <ITEM
+      POSITION 88.80794701986756
+      SNAPOFFS 0
+      LENGTH 4.56953642384107
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.198675 1 1 0
+      FADEOUT 1 4.370861 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8EF15614-4C6E-4FC9-AADB-07D8CA027752}
+      IID 119
+      NAME D__Recording_06-151224_1557.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 95.14784807936446
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B7E5FDAF-D27B-406A-9C79-FAF068652E41}
+      RECPASS 20
+      <SOURCE WAVE
+        FILE "D:\Recording\D__Recording_06-151224_1557.wav"
+      >
+    >
+  >
+  <TRACK {308440D9-F546-4380-8A3C-86F9A6109B27}
+    NAME B1
+    PEAKCOL 32557176
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.75333899751391 -0.032 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 1
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {308440D9-F546-4380-8A3C-86F9A6109B27}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 1295 90 1265 944
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: Guitar Rig 5 (Native Instruments GmbH)" "Guitar Rig 5.dll" 0 ""
+        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
+      >
+      FLOATPOS 1431 170 1035 897
+      FXID {6A447256-EC25-4164-837D-F85E451E8AAA}
+      WAK 0
+      BYPASS 0 0 0
+      <VST "VST: ReaComp (Cockos)" reacomp.dll 0 ""
+        bWNlcu9e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAFQAAAAAAAAAAAAAAO++rd4N8K3eIa8PPo3NkT3S01U9
+        juBcPAAAAAAAAAAAFsWLPNb9czsAAAAAAAAAAL03hjXrTN4/AAAAAMOBkDwAAAAAAAAAAAAAAAAAAAAAAAAAAABzdG9jayAtIGRpc3RvcnRlZCBlbGVjdHJ0aWMgZ3Vp
+        dGFyAAAAAAA=
+      >
+      FLOATPOS 766 156 511 385
+      FXID {187F47FE-4384-43EA-8B0F-5E60DDB855B9}
+      WAK 0
+    >
+    <ITEM
+      POSITION 63.1425692221957
+      SNAPOFFS 0
+      LENGTH 12.26481894320979
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 2 0.3439 0 2 0 1
+      FADEOUT 1.1 0.01 0.142922 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {52A54BC3-58BB-40D9-B176-C896E3D8E86C}
+      IID 143
+      NAME beacons_middle.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.05307221325283
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {35C9D079-24DE-4B34-B686-4382D0B539F1}
+      <SOURCE WAVE
+        FILE "D:\Recording\beacons_middle.wav"
+      >
+    >
+    <ITEM
+      POSITION 75.26446587221535
+      SNAPOFFS 0
+      LENGTH 1.02692485626147
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 1.019179 0.142922 1 1 0
+      FADEOUT 1 0.007746 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AB9527F9-67B0-49DB-9792-18F049792A8B}
+      IID 112
+      NAME "D__Recording_02-Acoustic Left-151219_1739.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 117.37675264470488
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {010D6929-78E0-40B8-A340-6CEE61A0DAD4}
+      RECPASS 17
+      <SOURCE WAVE
+        FILE "D:\Recording\D__Recording_02-Acoustic Left-151219_1739.wav"
+      >
+    >
+    <ITEM
+      POSITION 75.29800324503312
+      SNAPOFFS 0
+      LENGTH 0.00001
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {092BD551-AC9B-46DB-BA3A-B13AC32E1085}
+      IID 112
+      NAME "D__Recording_02-Acoustic Left-151219_1739.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 118.20499200432849
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B635084A-A4DE-4A3F-8256-65C16203B903}
+      RECPASS 17
+      <SOURCE WAVE
+        FILE "D:\Recording\D__Recording_02-Acoustic Left-151219_1739.wav"
+      >
+    >
+    <ITEM
+      POSITION 75.69535423841059
+      SNAPOFFS 0
+      LENGTH 0.00001
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8CACCFBE-15E0-42B2-8566-BB1F1BCFA722}
+      IID 112
+      NAME "D__Recording_02-Acoustic Left-151219_1739.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 118.60234299770596
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C0833E15-D45F-45B7-BDF1-EBBF10514721}
+      RECPASS 17
+      <SOURCE WAVE
+        FILE "D:\Recording\D__Recording_02-Acoustic Left-151219_1739.wav"
+      >
+    >
+  >
+>
